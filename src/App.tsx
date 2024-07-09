@@ -1,4 +1,3 @@
-import { About } from "./components/About";
 import { FAQ } from "./components/FAQ";
 import { Footer } from "./components/Footer";
 import { Hero } from "./components/Hero";
@@ -21,10 +20,6 @@ function App() {
 
       <section id="waitinglist">
         <Newsletter/>
-      </section>
-
-      <section id="about">
-      <About />
       </section>
 
       <section id="features">
